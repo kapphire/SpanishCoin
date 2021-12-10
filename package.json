@@ -1,0 +1,24 @@
+{
+  "name": "spanishcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaCypherpunk/SpanishCoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaCypherpunk/SpanishCoin/issues"
+  },
+  "homepage": "https://github.com/RafaCypherpunk/SpanishCoin#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "@uniswap/v2-core": "^1.0.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0"
+  }
+}
